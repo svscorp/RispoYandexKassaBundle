@@ -1,5 +1,5 @@
 {
-  "name": "rispo/yandexkassa-bundle",
+  "name": "svscorp/yandexkassa-bundle",
   "type": "symfony-bundle",
   "description": "Bundle allows you to accept YandexKassa payments",
   "keywords": ["payment", "yandex", "kassa", "yandex-kassa", "symfony", "bundle"],
@@ -16,8 +16,8 @@
   "target-dir": "Rispo/YandexKassaBundle",
   "authors": [
     {
-      "name": "Alexander Ivanisov",
-      "email": "ivanisov@rispo.ru"
+      "name": "Ilia Shakitko",
+      "email": "shakitko@gmail.com"
     }
   ]
 }
